@@ -1,0 +1,14 @@
+h2 {color:red;}
+         h1   {
+              color:red;
+              border:3px solid black;
+              text-align: center;
+               }
+         nav ul{
+               border: 3px solid black;
+               float:left; padding-left:5px;
+               }
+        div    {
+               width:90%;
+               float:right;
+               }
